@@ -1,0 +1,9 @@
+{
+    "student": {
+        "name": "John",
+        "surname": "Doe",
+        "age": 21,
+        "faculty": "Letters",
+        "course": 3
+    }
+}

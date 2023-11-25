@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>John</name>
+        <surname>Doe</surname>
+        <age>21</age>
+        <faculty>Letters</faculty>
+        <course>3</course>
+    </student>
+</students>
